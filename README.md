@@ -10,6 +10,10 @@ Or
 ```  
 g++ file_viewer.cpp -o file_viewer.out -std=c++20 -lncurses
 ```  
+# Run  
+```sh  
+./file_viewer.out {specify_path}  
+```
 
 ## Example  
 
